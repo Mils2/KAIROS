@@ -3,3 +3,11 @@ __pycache__/
 *.pyc
 .env
 logs/*.log
+
+.openclaw/
+data/
+config/config.json
+
+.openclaw/
+data/
+config/config.json
